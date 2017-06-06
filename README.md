@@ -2,23 +2,23 @@
 
 为了显示效果近似，用到了网上某大神写的仿IOS ActionSheet稍加改动。
 
-[Android平台源码]: http://git.oschina.net/lovewestwind/unityphotoplugins
+Android平台源码: http://git.oschina.net/lovewestwind/unityphotoplugins
 
 主分支里有demo项目和plugins源码和IOS源码，在Assets/Plugins/IOS/目录下。
 
 IOS部分截图
 
-![IMG_2745](doc/IMG_2746.PNG)
+![IMG_2745](DOC/IMG_2746.PNG)
 
-![IMG_2745](doc/IMG_2745.PNG)
+![IMG_2745](DOC/IMG_2745.PNG)
 
 Android部分截图
 
-![android1](doc/android1.jpg)
+![android1](DOC/android1.jpg)
 
-![android2](doc/android2.png)
+![android2](DOC/android2.png)
 
-![android3](doc/android3.png)
+![android3](DOC/android3.png)
 
 NextVersion:
 

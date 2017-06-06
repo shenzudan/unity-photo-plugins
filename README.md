@@ -8,9 +8,9 @@
 
 IOS部分截图
 
-![IMG_2745](DOC/IMG_2746.PNG)
+![IMG_2745](doc/IMG_2746.PNG)
 
-![IMG_2745](DOC/IMG_2745.PNG)
+![IMG_2745](doc/IMG_2745.PNG)
 
 Android部分截图
 
